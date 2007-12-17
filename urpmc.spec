@@ -11,7 +11,6 @@ Source: 	http://ben.reser.org/mandrake/%{name}/%{name}-%{version}.tar.bz2
 Source1:	%{SOURCE0}.sig
 URL: 		http://ben.reser.org/cvsweb/urpmc/
 Group: 		System/Configuration/Packaging
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
 License:	GPL
 Requires:	perl >= 2:5.8.0
