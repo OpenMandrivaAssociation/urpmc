@@ -1,8 +1,3 @@
-# $Id: urpmc.cooker.spec,v 1.3 2003/07/16 04:24:25 breser Exp $
-%define name urpmc
-%define version 1.2
-%define release %mkrel 11
-
 Name:		urpmc
 Summary:	User rpm change(s|log)
 Version:	1.2
