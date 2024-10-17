@@ -3,7 +3,7 @@ Summary:	User rpm change(s|log)
 Version:	1.2
 Release:	13
 Source0:	http://ben.reser.org/mandrake/%{name}/%{name}-%{version}.tar.bz2
-URL:		http://ben.reser.org/cvsweb/urpmc/
+URL:		https://ben.reser.org/cvsweb/urpmc/
 Group:		System/Configuration/Packaging
 BuildArch:	noarch
 License:	GPL
