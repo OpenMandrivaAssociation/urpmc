@@ -8,6 +8,7 @@ Group:		System/Configuration/Packaging
 BuildArch:	noarch
 License:	GPL
 Requires:	perl >= 2:5.8.0
+BuildRequires:	make
 BuildRequires:	perl-devel >= 2:5.8.0
 
 %description
